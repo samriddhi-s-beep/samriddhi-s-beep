@@ -58,3 +58,26 @@
 <h2>♡ Featured Projects</h2>
 
 <p>More projects coming soon!</p>
+
+<hr />
+
+<h2 align="center">♡ GitHub Stats</h2>
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=samriddhi-s-beep&show_icons=true&theme=radical&hide_border=true&title_color=ff79c6&icon_color=bd93f9&text_color=ffffff&bg_color=0d1117"
+        width="100%"
+        alt="GitHub statistics"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=samriddhi-s-beep&layout=compact&theme=radical&hide_border=true&title_color=ff79c6&text_color=ffffff&bg_color=0d1117&langs_count=4"
+        width="100%"
+        alt="Most-used languages"
+      />
+    </td>
+  </tr>
+</table>
