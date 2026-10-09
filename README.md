@@ -42,8 +42,7 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" alt="SQL and MySQL" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="42" alt="Power BI" />
-  &nbsp;
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="Git" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" alt="GitHub" />
@@ -52,12 +51,6 @@
 <p align="center">
   <sub>R · Python · SQL · Power BI · Alteryx · MS Access · Git & GitHub</sub>
 </p>
-
-<hr />
-
-<h2>♡ Featured Projects</h2>
-
-<p>More projects coming soon!</p>
 
 <hr />
 
@@ -78,6 +71,33 @@
         width="100%"
         alt="Most-used languages"
       />
+    </td>
+  </tr>
+</table>
+
+<hr />
+
+<h2 align="center">♡ Featured Projects</h2>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🌿 Green Grid Energy Optimisation</h3>
+      <p>A MILP-based model for renewable electricity procurement, balancing supplier costs and business constraints.</p>
+      <p><strong>Tools:</strong> R · Optimisation</p>
+      <p><a href="https://github.com/samriddhi-s-beep/green-grid-energy-optimization">View project →</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>💎 Jewellery Customer Analytics</h3>
+      <p>Customer segmentation using RFM analysis and K-Means to identify customer groups and develop CRM strategies.</p>
+      <p><strong>Tools:</strong> R · Customer Analytics</p>
+      <p><a href="https://github.com/samriddhi-s-beep/ jewellery-customer-segmentation">View project →</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🏛️ Gujarat Tourism Datathon</h3>
+      <p>Data-driven analysis to help identify tourism investment priorities for Gujarat's ₹6,500 crore tourism budget.</p>
+      <p><strong>Tools:</strong> Alteryx · Data Analytics</p>
+      <p><a href="https://github.com/samriddhi-s-beep/QUB_Datathon">View project →</a></p>
     </td>
   </tr>
 </table>
