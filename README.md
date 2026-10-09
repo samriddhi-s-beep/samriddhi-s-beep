@@ -33,6 +33,26 @@
   </tr>
 </table>
 
+<h2>♡ My Tech Stack</h2>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="42" alt="R" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" alt="SQL and MySQL" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="42" alt="Power BI" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="Git" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" alt="GitHub" />
+</p>
+
+<p align="center">
+  <sub>R · Python · SQL · Power BI · Alteryx · MS Access · Git & GitHub</sub>
+</p>
+
 <hr />
 
 <h2>♡ Featured Projects</h2>
