@@ -1,16 +1,40 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/banner.png" alt="Samriddhi Soni — Business Analytics" width="100%" />
+</p>
 
-<!--
-**samriddhi-s-beep/samriddhi-s-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Samriddhi ♡</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <strong>MSc Business Analytics · Data · Strategy</strong><br />
+  Turning data into insights and better decisions.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h2>♡ About Me</h2>
+      <p>I'm pursuing an MSc in Business Analytics at Queen's University Belfast, GIFT City. I enjoy exploring data, solving business problems, and translating analysis into actionable insights.</p>
+      <p>
+        <a href="https://www.linkedin.com/in/samriddhisoni2429">LinkedIn</a> ·
+        <a href="https://github.com/samriddhi-s-beep">GitHub</a>
+      </p>
+      <h3>✦ A little about me</h3>
+      <p>📊 Interested in business analytics, marketing analytics and BI</p>
+      <p>🌱 Strengthening my SQL, Python, Power BI and Alteryx skills</p>
+      <p>🧶 Outside analytics: crocheting and reading fiction</p>
+    </td>
+    <td width="40%" valign="top" align="center">
+      <img src="assets/avatar.png" width="220" alt="Anime-style tech girl with glasses at her workspace" />
+      <h3>My toolkit</h3>
+      <p>R · Python · SQL<br />Power BI · Alteryx<br />MS Access · Git</p>
+      <h3>Currently learning</h3>
+      <p>SQL · Python · Power BI · Alteryx</p>
+    </td>
+  </tr>
+</table>
+
+<hr />
+
+<h2>♡ Featured Projects</h2>
+
+<p>More projects coming soon!</p>
